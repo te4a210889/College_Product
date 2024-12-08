@@ -1,7 +1,7 @@
 <?php
 
 namespace App\Http\Controllers;
-
+#require_once 'Recipe.php';
 use Illuminate\Http\Request;
 use App\Models\Recipe;
 use Illuminate\Support\Facades\Auth; 
